@@ -1,3 +1,11 @@
+I created my portfolio using React,lucide-react, and Tailwind CSS.
+This project helped me a lot to learn about New frontend technologies like React, TailwindCSS, also an icon library, Lucide-react.
+
+If you want to contribute to this 
+
+Just fork this Repository.
+If you have any issues, raise a PR.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
